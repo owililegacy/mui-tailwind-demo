@@ -19,7 +19,7 @@ versions
 ## Get started
 
 ```
-git clone git@github.com:siriwatknp/mui-tailwind-demo.git
+git clone git@github.com:owililegacy/mui-tailwind-demo.git
 cd mui-tailwind-demo
 yarn install & yarn start
 ```
